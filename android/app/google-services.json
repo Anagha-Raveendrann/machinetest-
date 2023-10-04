@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240094466150",
+    "project_id": "test-fda5e",
+    "storage_bucket": "test-fda5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240094466150:android:b241fde3de8893aedddda7",
+        "android_client_info": {
+          "package_name": "com.example.testt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIFT85i_uvVZTai5Yb6ERe_vMzLz41h2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
